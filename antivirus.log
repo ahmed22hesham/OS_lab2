@@ -10,3 +10,7 @@ virus
 </home/ahmed-hesham/OS/Antivirus/dir/karim.exe> is malicious and it is DELETED
 </home/ahmed-hesham/OS/9772-lab2/dir/zzzz.exe> is malicious and it is DELETED
 </home/ahmed-hesham/OS/9772-lab2/dir/zzzz.exe> is malicious and it is DELETED
+cp: cannot create regular file '/home/ahmed-hesham/OS/9772-lab2/malicious_dir/kkk.exe': File exists
+</home/ahmed-hesham/OS/9772-lab2/dir/kkk.exe> is malicious and it is DELETED
+rm: cannot remove '/home/ahmed-hesham/OS/9772-lab2/dir/kkk.exe': No such file or directory
+</home/ahmed-hesham/OS/9772-lab2/dir/kkk.exe> is malicious and it is DELETED
